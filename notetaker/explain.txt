@@ -1,0 +1,4 @@
+How to use:
+
+python3 notetaker.py
+(make sure you have python3.x installed)
